@@ -1,0 +1,7 @@
+.x.xx..xxx
+xS.xx..xx.
+...x..x.x.
+xx...xx..x
+xxx.......
+......xxx.
+......xxxF
